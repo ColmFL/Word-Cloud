@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!--
- ===================================================================================
-     GALWAY-MAYO INSTITUTE OF TECHNOLOGY 
-     
-     Copyright 2015. 		John Lavin
-     						B.Sc. (Hons) in Software Development
-							g00192754@gmit.ie
-     						Advanced Object-Oriented Design Principles & Patterns 
-     						
-     						A Java Word Cloud API
-	 
-     =================================================================================== 
--->
 <project name="aoodpp" default="deploy">
 <description>
 B.Sc. Software Development – Advanced Object-Oriented Design Principles and Patterns (2015) 2015 Assignment - A Java Word Cloud API
